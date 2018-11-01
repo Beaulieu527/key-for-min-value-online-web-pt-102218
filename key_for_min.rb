@@ -8,6 +8,6 @@ key_for_min_value.each do |key, value|
     min_val = value
     min_key = key
   end
-  min_key
+  return min_key
 end
 end
